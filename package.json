@@ -1,0 +1,24 @@
+{
+  "name": "crypto-milan-backend",
+  "version": "1.0.0",
+  "description": "Backend for Crypto Milan application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "backend",
+    "milan"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "init": "^0.1.2",
+    "mongoose": "^8.9.4"
+  }
+}
